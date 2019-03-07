@@ -1,4 +1,7 @@
 
+# Project Title
+Ruby Random Sentence Generator
+
 ## Main Components
 The main functionality of this program is to generate and output sentenences given a chosen grammar file.
 
